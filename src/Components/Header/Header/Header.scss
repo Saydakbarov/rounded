@@ -1,0 +1,16 @@
+
+            .MuiTabs-indicator  {
+    background-color: red !important;
+
+}
+
+.MuiButtonBase-root {
+    &:focus{
+        color: red;
+    }
+}
+
+.MuiPaper-root{
+    background-color: #0E0E12 !important;
+    padding: 20px 0px;
+}

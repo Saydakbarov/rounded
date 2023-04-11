@@ -1,0 +1,12 @@
+.block{
+    color: #fff;
+    transition: all 0.6s ease;
+
+
+  &:hover{
+    transform: translateY(-40px);
+    color: #F1023D;
+    transition: all 0.6s ease;
+  }
+    
+}
